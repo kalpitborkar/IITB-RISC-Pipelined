@@ -10,6 +10,7 @@ It follows the standard 6 stage pipeline:
   4. Execute
   5. Memory access
   6. Write back
+ 
 The architecture is optimized for performance using hazard mitigation techniques namely:
-  - Forwarding
-  - Branch prediction
+  1. Forwarding
+  2. Branch prediction
